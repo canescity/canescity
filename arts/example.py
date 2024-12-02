@@ -3,7 +3,7 @@
 mainArt = \
 '''
 ③
-__  __       _ _   _       __  __
+ __  __       _ _   _       __  __
 |  \/  |_   _| | |_(_)     |  \/  | __ _  ___
 | |\/| | | | | | __| |_____| |\/| |/ _` |/ __|
 | |  | | |_| | | |_| |_____| |  | | (_| | (__
@@ -185,4 +185,63 @@ __  __       _ _   _       __  __
 [-] UF : Bahia
 [-] Expiry : 12/2024
 ③
-'''
+⑥
+[-] Melhor Truque de Meatre [Hello Hackers]
+[+] Truque dev Psicopatia  Multi-Mac Chknet
+[=] Multi-Mac Tool Version : 2.0
+
+[x] 1) List valid 6 number valid
+[x] 2) Generate enumerate (generate cc list)
+[x] 3) Mac validator
+[x] 4) Generate Multi-Mac Mega Sena
+
+[^] Please Enter an option :  1
+[&] You selected first option !
+
+[-] Pin : 2203
+============================
+[*] Script by @Wally
+⑥
+③
+[-] Amount : 6 Numeros
+[-] Aposta : 27 33 37 41 54 56      
+[-] Concurso : 2802
+[-] aconteceu : 02/12/24
+[-] Nome : Wallex Guimarães
+[-] Address : 45860-000 Canavieiras
+[-] Country : Brazil
+[-] Money Range : $66.000
+[-] Moeda : Real Brasileiro
+[-] UF : Bahia
+[-] Expiry : 12/2024
+③
+⑥
+[-] Melhor Truque de Meatre [Hello Hackers]
+[+] Truque dev Psicopatia  Multi-Mac Chknet
+[=] Multi-Mac Tool Version : 2.0
+
+[x] 1) List valid 6 number valid
+[x] 2) Generate enumerate (generate cc list)
+[x] 3) Mac validator
+[x] 4) Generate Multi-Mac Mega Sena
+
+[^] Please Enter an option :  1
+[&] You selected first option !
+
+[-] Pin : 2203
+============================
+[*] Script by @Wally
+⑥
+③
+[-] Amount : 6 Numeros
+[-] Aposta : 03  07  16  53  55  58        
+[-] Concurso : 2802
+[-] aconteceu : 02/12/24
+[-] Nome : Wallex Guimarães
+[-] Address : 45860-000 Canavieiras
+[-] Country : Brazil
+[-] Money Range : $66.000
+[-] Moeda : Real Brasileiro
+[-] UF : Bahia
+[-] Expiry : 12/2024
+③

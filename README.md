@@ -22,6 +22,10 @@ width="700px" />
 
 https://github.com/user-attachments/assets/676dc0b8-3a4d-4374-9efb-3f6bc8e3cc6a
 
+
+```bas
+https://github.com/canescity/canescity.git
+```
 ```bash
 pip install -r requirements.txt
 ```
